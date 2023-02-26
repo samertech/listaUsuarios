@@ -1,0 +1,15 @@
+.lista div {
+    background-color: #b8d9d908;
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-top: 10px;
+
+}
+
+.lista ul {
+    list-style: none;
+    font-size: 20px;
+    padding: 0;
+}
